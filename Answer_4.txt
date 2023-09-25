@@ -1,0 +1,19 @@
+List of ways which help us in improving the accessibility of HTML:
+
+1. Image alternative text - Add descriptive alternative text (ait text)
+  to all images using the alt attribute
+Example -
+<img src="https://picsum.photos" alt="Randoln Pic” width="200" height="200"/>
+
+2. Ensuring proper heading structure or Semantic Structure of HTML- practice 
+the use of proper semantic structure, by using appropriate HTML elements 
+ like <h1>, <nav>, <main>, <article>, <button>, and <label> to convey the
+ purpose and role of each element.
+
+3. Text resizes and Zoom testing - The website pages should be checked by 
+	resizing text or zooming in/out to ensure that the content remains readable
+   and usable without causing layout or functionality issues.
+
+4. Video and Audio Accessibility - Provide captions, transcripts, and audio
+   descriptions br multimedia content.
+   Ensure that video players are accessible and controllable with the keyboard.

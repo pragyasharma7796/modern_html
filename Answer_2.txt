@@ -1,0 +1,54 @@
+HTML Entities:-
+The reserved characters used in HTML documents are known as HTM6 entities. They
+ are not seen on the typical keyboard. They provide a wide range of characters,
+ allowing you to add icons, geometric shapes,mathematical operators, and so on.
+
+HTML entities are useful when you want to display special characters that may 
+conflict with HTML syntax or when you want to ensure proper rendering across 
+different platforms and browsers that may have different character encoding settings.
+
+It's important to note that with the advancrment of web technologies, they need for 
+using HTML entities has diminished to some extent.
+
+Purpose and usage of HTML entities
+
+The main two purposes are:
+1. Displaying Special Characters
+2. Handling Reserved Characters
+
+1. Displaying Special Characters :HTML entities are used to display characters that
+   have special meanings in HTML or characters that cannot be easily typed or 
+   displayed directly.
+   For example, if you want to display the copyright symbol (©) or the trademark 
+   symbol (TM) on a webpage, you would use the corresponding HTML entities &copy;” 
+   and &trade;’, respectively.
+
+2. Handling Reserved Characters:  HTML uses certain characters for its syntax and 
+   structure, such as the less-than symbol (), the greater-than symbol (>),and the
+   ampersand symbol (&). These reserved characters can cause issues if used directly
+   in HTML code, as they may be interpreted as part of the markup. 
+    By using HTML entities like &lt;, &gt;, and &amp;’, you can display these 
+   characters as text on a webpage without affecting the HTML structure.
+
+   The entity code is enclosed in ampersands (&) and semicolons (;) to differentiate 
+   it from regular text.
+
+Commonly used HTML entities: 
+
+    
+HTML entities are useful when you want to display special characters that may conflict with HTML syntax or
+when you want to ensure proper rendering across different platforms and browsers that may have different
+character encoding settings.
+Its important to note that with the advancement of web technologies, the need for using HTML entities has
+diminished to some extent.
+Let us discuss more about the HTML entities
+Result   | Description     | Entity Name | Entity Number
+   <     | Less than       |   &It;      | &#60;
+   >     |greater than     |   &gt;      | &#62;
+   &     | ampersand       |   &amp;     | &#38
+   "     |double quotation |   &quot;    | &#34;
+         |mark             |             |
+	'    |single quotation |    &apos;    |&#39;
+		  | mark(apostrophe)|             |
+
+
